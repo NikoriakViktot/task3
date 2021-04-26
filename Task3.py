@@ -17,7 +17,7 @@ d = len(a)
 print(d)
 print(a[0], a[1], a[8], a[9])
 print(a[-10], a[-9], a[-2], a[-1])
-print(b+b)
+print(b*2)
 print(c[0])
 
 
@@ -25,10 +25,11 @@ print(c[0])
 # The valid phone number program.
 # Make a program that checks if a string is in the right format for a phone number. The program should check that the string contains only numerical characters and is only 10 characters long. Print a suitable message depending on the outcome of the string evaluation.
 
-number_tel = '0661300413'
-number_quantity = len(number_tel)
-print(number_quantity)
-print(number_tel.isdigit())
+number_tel = input('Ведіть номер телефона,')
+while True:
+    if number_tel == len(number_tel>10)
+
+    print(number_tel.isdigit())
 
 
 # Task 3
