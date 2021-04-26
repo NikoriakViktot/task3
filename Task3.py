@@ -28,8 +28,7 @@ print(c[0])
 number_tel = input('Ведіть номер телефона,')
 while True:
     if number_tel == len(number_tel>10)
-
-    print(number_tel.isdigit())
+    
 
 
 # Task 3
